@@ -26,5 +26,6 @@ class App extends Component {
     );
   }
 }
+//changes by T
 
 export default App;
